@@ -3,7 +3,6 @@
 <br>
 <p> A lightweight, terminal-based task management system built in C++. It helps users create, organize, and track tasks directly from the command line, with color-coded output that makes priorities, statuses, and deadlines easy to scan at a glance.</p>
 <br>
-<list>
 <b><h5>Features:</h5></b>
 <br>
 Add, edit, delete, and mark tasks as complete
@@ -16,5 +15,4 @@ Persistent storage using file I/O
 <br>
 Simple, intuitive command-line interface
 <br>
-</list>
 <p> <b>Built with:</b> C++, ANSI escape codes for terminal coloring </p>
