@@ -3,8 +3,8 @@ Task Manager CLI
 <br>
 A lightweight, terminal-based task management system built in C++. It helps users create, organize, and track tasks directly from the command line, with color-coded output that makes priorities, statuses, and deadlines easy to scan at a glance.
 <br>
+<list>
 Features:
-
 <br>
 Add, edit, delete, and mark tasks as complete
 <br>
@@ -16,4 +16,5 @@ Persistent storage using file I/O
 <br>
 Simple, intuitive command-line interface
 <br>
+</list>
 Built with: C++, ANSI escape codes for terminal coloring
